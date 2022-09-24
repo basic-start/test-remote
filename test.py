@@ -1,1 +1,4 @@
-print('Hello SSH and GitHub')
+def say():
+    print('Hello World')
+
+say()
